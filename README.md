@@ -61,5 +61,5 @@ However, in the case of solar energy, it is obvious that the crime occurs more o
 According to prior study, certain crime type has high relationship with temperature and humidity.
 But according to our analysis, almost every type of crime has high correlation whit temperature, not humidity.
 We concluded that this is because climate difference between korea and chicago.
-If add some additional features like age, gender and educational background, etc, more significant conclusion can be expected.
+If add some additional features like age, gender and educational background, which are known as relevant with crime, more significant conclusion can be expected.
 Also, we expect that this analysis can help a national security agency or private security service to assign their attentions and resources everyday.
