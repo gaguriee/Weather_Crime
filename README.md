@@ -49,6 +49,17 @@ And only ‘THEFT’ ’BATTERY” ’CRIMINAL DAMAGE” ‘ASSAULT’ column ha
 
 
 ### 6. Time Series Analysis and Forecast (With scatter plot from data with ols, with ARIMA library)
-
+For Time series analysis, we did two kind of things.
+First, we trained regression model with ols, and drew scatter plot based on the prediction of the model.
+With this, we can get similar effect as if we conduct time series analysis. As a result, we can visualize the future trend of certain type of crime's severity.
+And we also actually did the time series analysis with the ARIMA library.
+To determine the parameters which are used in ARIMA model, several tests like Augmented Dicky-Fuller test are done and drew ACF and PACF graph.
 
 ### 7. Conclusion
+Within weather data set, temperature and solar energy showed significant relationship with crimes.
+However, in the case of solar energy, it is obvious that the crime occurs more often after sunset, so we conclude that only temperature has significant relationship with crimes.
+According to prior study, certain crime type has high relationship with temperature and humidity.
+But according to our analysis, almost every type of crime has high correlation whit temperature, not humidity.
+We concluded that this is because climate difference between korea and chicago.
+If add some additional features like age, gender and educational background, etc, more significant conclusion can be expected.
+Also, we expect that this analysis can help a national security agency or private security service to assign their attentions and resources everyday.
