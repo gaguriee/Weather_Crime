@@ -12,9 +12,26 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/da
 
 
 ### 1. Introduction
+The earth is getting hotter. Compared to 1850, the average global surface temperature rose by more than one degree.
+If the current average temperature increase rate on Earth is maintained, the frequency and intensity of heat waves in many areas will increase.
+
+Temperature and humidity increase, something that increases together. It's a crime.
+The five major crimes in Daegu (2019) > about 20% of all crimes
+It's not just Korea.
+In 1988, when the record-breaking heat wave hit the U.S. > many crimes across the U.S.
+
+High temperatures can make people feel bad and harm others. 
+In addition, there was also a study that showed that each crime was related to other meteorological factors. 
+(Violent crimes and sex crimes: temperature, Domestic violence: humidity)
+
+Therefore, we decided on a topic and confirmed the relationship between weather and crime.
 
 
 ### 2. import weather data, crime data
+We need enough data to determine the relationship between weather and crime.
+So we analyzeㅇ Chicago, which has such a high crime rate that it is called the "city of crime," as an area.
+In the crime dataset, we can get the type of crime, date, arrest, location, etc.
+In the weather dataset, we can obtain various weather information such as temperature, sensory temperature, precipitation, humidity, wind speed, sloar energy.
 
 
 ### 3. crime data visualization(EDA)
