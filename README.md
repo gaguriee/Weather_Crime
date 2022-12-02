@@ -30,6 +30,7 @@ Therefore, we decided on a topic and confirmed the relationship between weather 
 ### 2. import weather data, crime data
 We need enough data to determine the relationship between weather and crime.
 So we analyze Chicago, which has such a high crime rate that it is called the "city of crime," as an area.
+![image](https://user-images.githubusercontent.com/46551994/205298659-e2aa860e-6456-497e-8c11-46cc331a7466.png)
 
 In the crime dataset, we can get the type of crime, date, arrest, location, etc.
 
@@ -41,8 +42,14 @@ By month, the crime rate is higher in summer than in other months.
 ![image](https://user-images.githubusercontent.com/46551994/205298121-e2be8a93-f5df-4f51-a20b-0367f93d8f63.png)
 
 On a daily basis, the crime rate fell at the end of the month and the highest crime rate occurred on the first day.
+![image](https://user-images.githubusercontent.com/46551994/205298425-2e2dbbf7-3738-4ab2-ba66-a4f7644b3cbb.png)
+
 There was no significant difference by day of the week, but on average, Friday was slightly higher and Sunday was slightly lower.
+![image](https://user-images.githubusercontent.com/46551994/205298460-3dabe117-2ec7-4dc4-9f4d-d97470006014.png)
+
 Lastly, looking at the crime rate by hour, the lowest in the morning and the highest in the afternoon.
+![image](https://user-images.githubusercontent.com/46551994/205298497-bf2be884-5113-4ca3-9eff-c4a85005bdcb.png)
+
 
 ### 4. preprocessing(merge crime data and weather data, Handling Missing values, Outliers, Normalization)
 #### merge crime data and weather data
