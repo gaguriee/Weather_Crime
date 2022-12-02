@@ -29,8 +29,10 @@ Therefore, we decided on a topic and confirmed the relationship between weather 
 
 ### 2. import weather data, crime data
 We need enough data to determine the relationship between weather and crime.
-So we analyzeㅇ Chicago, which has such a high crime rate that it is called the "city of crime," as an area.
+So we analyze Chicago, which has such a high crime rate that it is called the "city of crime," as an area.
+
 In the crime dataset, we can get the type of crime, date, arrest, location, etc.
+
 In the weather dataset, we can obtain various weather information such as temperature, sensory temperature, precipitation, humidity, wind speed, sloar energy.
 
 
