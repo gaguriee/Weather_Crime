@@ -37,7 +37,12 @@ In the weather dataset, we can obtain various weather information such as temper
 
 
 ### 3. crime data visualization(EDA)
+By month, the crime rate is higher in summer than in other months.
+![image](https://user-images.githubusercontent.com/46551994/205298121-e2be8a93-f5df-4f51-a20b-0367f93d8f63.png)
 
+On a daily basis, the crime rate fell at the end of the month and the highest crime rate occurred on the first day.
+There was no significant difference by day of the week, but on average, Friday was slightly higher and Sunday was slightly lower.
+Lastly, looking at the crime rate by hour, the lowest in the morning and the highest in the afternoon.
 
 ### 4. preprocessing(merge crime data and weather data, Handling Missing values, Outliers, Normalization)
 #### merge crime data and weather data
