@@ -15,7 +15,7 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/da
 The earth is getting hotter. Compared to 1850, the average global surface temperature rose by more than one degree.
 If the current average temperature increase rate on Earth is maintained, the frequency and intensity of heat waves in many areas will increase.
 
-Temperature and humidity increase, something that increases together. It's a crime.
+These climate issues such as temperature and humidity can be socially and politically problematic, one of which is crime.
 The five major crimes in Daegu (2019) > about 20% of all crimes
 It's not just Korea.
 In 1988, when the record-breaking heat wave hit the U.S. > many crimes across the U.S.
